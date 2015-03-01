@@ -124,7 +124,8 @@ Visit your Elgg site
 --------------------
 
 Once you've performed these steps, visit your Elgg site in your web
-browser. Elgg will take you through the rest of the installation process
+browser at http://www.yoursite.com/subfolder/install.php. 
+Elgg will take you through the rest of the installation process
 from there. The first account that you create at the end of the
 installation process will be an administrator account.
 
