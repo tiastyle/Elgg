@@ -124,9 +124,10 @@ Visit your Elgg site
 --------------------
 
 Once you've performed these steps, visit your Elgg site in your web
-browser. Elgg will take you through the rest of the installation process
-from there. The first account that you create at the end of the
-installation process will be an administrator account.
+browser at http://example.org/mysite/install.php. Elgg will take you 
+through the rest of the installation process from there. The first 
+account that you create at the end of the installation process will 
+be an administrator account.
 
 
 A note on settings.php and .htaccess
@@ -150,7 +151,7 @@ won't work, you will need to:
 -  Copy engine/settings.example.php to engine/settings.php, open it up
    in a text editor and fill in your database details
 -  On Apache server, copy ``install/config/htaccess.dist`` to ``.htaccess``
--  On Nginx server copy ``install/config/nginx.dist`` to ``/etc/nginx/sites-enabled`` and adjust it's contents
+-  On Nginx server copy ``install/config/nginx.dist`` to ``/etc/nginx/sites-enabled`` and adjust its contents
 
 Other Configurations
 ====================
